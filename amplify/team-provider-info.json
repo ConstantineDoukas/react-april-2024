@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "reactapril202489be9365": {}
+      },
+      "api": {
+        "reactapril2024": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
